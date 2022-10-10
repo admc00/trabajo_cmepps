@@ -8,6 +8,7 @@ public class hola {
 		System.out.println("rama 1");
 		System.out.println("rama principal");
 		System.out.println("rama 2");
+		System.out.println("rama 2");
 	}
 
 }
