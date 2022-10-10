@@ -6,6 +6,7 @@ public class hola {
 		// TODO Auto-generated method stub
 		System.out.println("rama principal");
 		System.out.println("rama 1");
+		System.out.println("rama principal");
 	}
 
 }
